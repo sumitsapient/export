@@ -93,7 +93,7 @@ ul,ol{list-style:none}
 .more{margin-top:auto;font-weight:600;font-size:.88rem;color:var(--gd)}
 .enquiry-card{justify-content:center;background:linear-gradient(rgba(251,248,242,.92),rgba(251,248,242,.92)),linear-gradient(#8aa86a,#3d6b3f)}
 .enquiry-card p{color:var(--mut);margin:8px 0 18px;font-size:.92rem}
-@media(max-width:900px){.filters{grid-template-columns:repeat(2,1fr)}.pgrid{grid-template-columns:repeat(2,1fr)}.detail-grid{grid-template-columns:1fr}.tab-split{grid-template-columns:1fr}}
+@media(max-width:900px){.filters{grid-template-columns:repeat(2,1fr)}.pgrid{grid-template-columns:repeat(2,1fr)}}
 @media(max-width:560px){.filters{grid-template-columns:1fr}.pgrid{grid-template-columns:1fr}.clear{justify-self:start}}
 
 .detail{padding-top:20px;padding-bottom:64px}
@@ -216,3 +216,6 @@ details p{margin-top:8px;color:var(--mut)}
 .card a:focus-visible{outline:none}
 .card:focus-within{outline:2px solid var(--g);outline-offset:2px}
 @media(prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
+
+@media(max-width:900px){.detail-grid,.tab-split{grid-template-columns:1fr}.gallery{min-width:0}}
+.detail-grid>*{min-width:0}
