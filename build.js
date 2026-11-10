@@ -87,12 +87,15 @@ page({
 <div class="wrap">
   <form class="filters" aria-label="Filter products" onsubmit="return false">
     ${select('category', 'Category', 'All Categories', uniq('category'))}
+    <button type="button" class="filter-toggle" aria-expanded="false" aria-controls="more-filters">Filters<span id="f-count" hidden></span></button>
+    <div class="more-filters" id="more-filters">
     ${select('application', 'Application', 'All Applications', uniq('application'))}
     ${select('origin', 'Origin', 'All Origins', uniq('origin'))}
     ${select('certification', 'Certification', 'All Certifications', uniq('certifications'))}
     ${select('moq', 'MOQ', 'Any MOQ', uniq('moqTier'))}
     ${select('supply', 'Supply Type', 'All Supply Types', uniq('supplyType'))}
     <button type="reset" class="clear">Clear Filters</button>
+    </div>
   </form>
   <p id="no-results" class="no-results" hidden>No products match these filters.</p>
   <div class="pgrid">
