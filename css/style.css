@@ -209,3 +209,10 @@ details p{margin-top:8px;color:var(--mut)}
 .closing-band strong{font-family:Georgia,serif;font-size:clamp(1.1rem,3vw,1.4rem);font-weight:400}
 @media(max-width:900px){.pillar-grid{grid-template-columns:repeat(2,1fr)}.vision-box ol{grid-template-columns:repeat(3,1fr);row-gap:24px}.vision-box li::after{display:none}}
 @media(max-width:560px){.pillar-grid{grid-template-columns:1fr}.vision-box ol{grid-template-columns:repeat(2,1fr)}.closing-band .band-in{text-align:left;flex-direction:row}}
+
+.card{position:relative;transition:transform .2s,box-shadow .2s}
+.card:hover{transform:translateY(-3px);box-shadow:0 8px 22px rgba(0,0,0,.14)}
+.card a::after{content:"";position:absolute;inset:0;border-radius:var(--r)}
+.card a:focus-visible{outline:none}
+.card:focus-within{outline:2px solid var(--g);outline-offset:2px}
+@media(prefers-reduced-motion:reduce){.card{transition:none}.card:hover{transform:none}}
