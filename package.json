@@ -1,0 +1,5 @@
+{
+  "name": "vayexim-site",
+  "private": true,
+  "scripts": { "build": "node build.js", "start": "node build.js && node serve.js" }
+}

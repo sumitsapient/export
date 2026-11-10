@@ -1,0 +1,24 @@
+{
+  "hero": { "title": "Sourcing responsibly, one product at a time.", "text": "Better for people. Better for communities. Better for the planet." },
+  "pillars": {
+    "title": "Our Sustainability Pillars",
+    "items": [
+      { "name": "Responsible Sourcing", "icon": "i9", "text": "Ethical sourcing, fair partnerships, and support for Indian farmers and artisans." },
+      { "name": "Better Materials", "icon": "i15", "text": "Natural, renewable and low-impact materials where possible." },
+      { "name": "Product Longevity", "icon": "i16", "text": "Durable, functional and reusable products for a longer lifecycle." },
+      { "name": "Transparent Claims", "icon": "i3", "text": "Clear information on origins, processes and certifications." }
+    ]
+  },
+  "vision": {
+    "title": "Our Long-Term Vision",
+    "text": "Building our own integrated value chain — from farms to global markets.",
+    "steps": [
+      { "name": "Farm", "slug": "farm", "text": "Quality raw materials from our Indian farms" },
+      { "name": "Processing", "slug": "processing", "text": "Cleaning, sorting, value addition" },
+      { "name": "Manufacturing", "slug": "manufacturing", "text": "Textiles, hygiene products, handicrafts & more" },
+      { "name": "Quality", "slug": "quality", "text": "Testing, certification, traceability" },
+      { "name": "Export", "slug": "export", "text": "To global markets, with care" }
+    ]
+  },
+  "closing": { "title": "Growing together — for a more sustainable future.", "text": "Indian roots. Global impact." }
+}

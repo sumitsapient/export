@@ -1,0 +1,20 @@
+{
+  "hero": { "title": "How We Work", "text": "Your requirements. Our network. A seamless sourcing process." },
+  "steps": [
+    { "label": "Buyer Requirement", "icon": "i14" },
+    { "label": "Supplier Matching", "icon": "i7" },
+    { "label": "Sample Evaluation", "icon": "i8" },
+    { "label": "Specification Approval", "icon": "i4" },
+    { "label": "Production & Packing", "icon": "i5" },
+    { "label": "Inspection & QC", "icon": "i13" },
+    { "label": "Export & Delivery", "icon": "i6" }
+  ],
+  "intro": {
+    "title": "Tell us what you need",
+    "text": "Share your product requirements, and our team will coordinate with qualified Indian manufacturers, processors and suppliers. We act as your accountable commercial and export desk — handling sourcing, quality coordination, documentation and shipment.",
+    "points": ["Access to vetted Indian suppliers", "Transparent communication", "Quality and compliance checks", "End-to-end export support"],
+    "closing": "You focus on your market. We'll handle the rest."
+  },
+  "banner": { "title": "More products. More possibilities.", "text": "As we grow, we'll be adding new product categories and capabilities to serve a wider range of global markets.", "cta": "Explore Our Product Range" },
+  "countries": ["Australia","Austria","Bahrain","Bangladesh","Belgium","Brazil","Canada","Denmark","Egypt","Finland","France","Germany","Hong Kong","Indonesia","Ireland","Israel","Italy","Japan","Jordan","Kenya","Kuwait","Malaysia","Mexico","Netherlands","New Zealand","Nigeria","Norway","Oman","Poland","Qatar","Saudi Arabia","Singapore","South Africa","South Korea","Spain","Sri Lanka","Sweden","Switzerland","Thailand","Turkey","United Arab Emirates","United Kingdom","United States","Vietnam","Other"]
+}

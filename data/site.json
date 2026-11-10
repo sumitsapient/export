@@ -1,0 +1,14 @@
+{
+  "name": "VAYEXIM",
+  "url": "https://www.vayexim.com",
+  "email": "info@vayexim.com",
+  "formEndpoint": "",
+  "nav": [
+    { "label": "Home", "href": "/", "match": ["/"] },
+    { "label": "Products", "href": "/products.html", "match": ["/products.html", "/products/"] },
+    { "label": "How We Work", "href": "/sourcing-process.html", "match": ["/sourcing-process.html"] },
+    { "label": "Quality & Traceability", "href": "/quality-assurance.html", "match": ["/quality-assurance.html"] },
+    { "label": "Sustainability", "href": "/sustainability.html", "match": ["/sustainability.html"] }
+  ],
+  "cta": { "label": "Request a Quote", "href": "#enquiry" }
+}

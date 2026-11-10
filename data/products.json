@@ -1,0 +1,525 @@
+[
+  {
+    "slug": "moringa-leaf-powder",
+    "name": "Moringa Leaf Powder",
+    "category": "Agricultural",
+    "application": "Food & Nutrition",
+    "origin": "India",
+    "supplyMode": "Bulk / Private Label",
+    "certifications": [
+      "Organic",
+      "FSSAI"
+    ],
+    "moqTier": "Up to 1,000",
+    "moq": "500 kg",
+    "packaging": "5 / 10 / 25 kg (customizable)",
+    "supplyType": "FOB / CIF",
+    "summary": "Premium quality moringa leaf powder, sourced from select Indian farms. Rich in nutrients and ideal for food, beverage, and nutraceutical applications.",
+    "description": "Sourced from partner farms and processed in controlled conditions. Mock content: replace with your real product story.",
+    "highlights": [
+      "Low-temperature drying",
+      "Lab-tested per batch",
+      "Custom grind and packing"
+    ],
+    "tags": [
+      "Agricultural",
+      "Bulk",
+      "Private Label"
+    ],
+    "gallery": 4,
+    "specs": [
+      [
+        "Botanical Name",
+        "Moringa oleifera"
+      ],
+      [
+        "Form",
+        "Fine Powder"
+      ],
+      [
+        "Grade",
+        "Food / Nutraceutical Grade"
+      ],
+      [
+        "MOQ",
+        "500 kg"
+      ],
+      [
+        "Packaging",
+        "5 / 10 / 25 kg (food grade bags / pouches)"
+      ],
+      [
+        "Shelf Life",
+        "24 months"
+      ],
+      [
+        "Sample",
+        "Available (paid)"
+      ],
+      [
+        "Lead Time",
+        "15-30 days (subject to quantity)"
+      ]
+    ],
+    "applications": [
+      {
+        "name": "Food & Beverage",
+        "text": "functional foods, smoothies, health drinks"
+      },
+      {
+        "name": "Nutraceuticals",
+        "text": "dietary supplements, capsules"
+      },
+      {
+        "name": "Cosmetics",
+        "text": "skin and hair care products"
+      },
+      {
+        "name": "Animal Feed",
+        "text": "livestock nutrition"
+      }
+    ],
+    "quality": [
+      "Tested for moisture, microbial load and heavy metals",
+      "Batch-wise certificate of analysis",
+      "Traceable to farm lots"
+    ],
+    "packagingOptions": [
+      "Food-grade bags, pouches or drums",
+      "Custom pack sizes",
+      "Private-label packing"
+    ],
+    "logistics": [
+      "Sea and air freight",
+      "FOB / CIF",
+      "Lead time 15-30 days (subject to quantity)"
+    ],
+    "faqs": [
+      {
+        "q": "Do you provide samples?",
+        "a": "Yes, paid samples are available."
+      },
+      {
+        "q": "Can you do private label?",
+        "a": "Yes, on request."
+      }
+    ],
+    "caption": "Rich in nutrients. Valued globally."
+  },
+  {
+    "slug": "aloe-vera-gel",
+    "name": "Aloe Vera Gel",
+    "category": "Agricultural",
+    "application": "Cosmetic & Personal Care",
+    "origin": "India",
+    "supplyMode": "Bulk / Private Label",
+    "certifications": [
+      "FSSAI"
+    ],
+    "moqTier": "1,000+",
+    "moq": "1,000 kg",
+    "packaging": "25 / 50 / 200 kg (drums)",
+    "supplyType": "FOB / CIF",
+    "summary": "Pure aloe vera gel for food, cosmetic and wellness use.",
+    "description": "Mock content: replace with your real product story.",
+    "highlights": [
+      "Stabilised gel",
+      "Drum or pail packing",
+      "Batch documentation"
+    ],
+    "tags": [
+      "Agricultural",
+      "Bulk",
+      "Private Label"
+    ],
+    "gallery": 4,
+    "specs": [
+      [
+        "Form",
+        "Standard grade"
+      ],
+      [
+        "Grade",
+        "Food grade"
+      ],
+      [
+        "Shelf Life",
+        "24 months"
+      ],
+      [
+        "Sample",
+        "Available (paid)"
+      ],
+      [
+        "Lead Time",
+        "15-30 days (subject to quantity)"
+      ],
+      [
+        "MOQ",
+        "1,000 kg"
+      ],
+      [
+        "Packaging",
+        "25 / 50 / 200 kg (drums)"
+      ]
+    ],
+    "applications": [
+      {
+        "name": "Food & Beverage",
+        "text": "ingredients for foods and drinks"
+      },
+      {
+        "name": "Nutraceuticals",
+        "text": "supplements and wellness products"
+      },
+      {
+        "name": "Cosmetics",
+        "text": "skin and hair care formulations"
+      }
+    ],
+    "quality": [
+      "Tested for moisture, microbial load and heavy metals",
+      "Batch-wise certificate of analysis",
+      "Traceable to farm lots"
+    ],
+    "packagingOptions": [
+      "Food-grade bags, pouches or drums",
+      "Custom pack sizes",
+      "Private-label packing"
+    ],
+    "logistics": [
+      "Sea and air freight",
+      "FOB / CIF",
+      "Lead time 15-30 days (subject to quantity)"
+    ],
+    "faqs": [
+      {
+        "q": "Do you provide samples?",
+        "a": "Yes, paid samples are available."
+      },
+      {
+        "q": "Can you do private label?",
+        "a": "Yes, on request."
+      }
+    ],
+    "caption": "Rich in nature. Valued globally."
+  },
+  {
+    "slug": "cloth-diapers",
+    "name": "Cloth Diapers",
+    "category": "Textiles",
+    "application": "Baby Care",
+    "origin": "India",
+    "supplyMode": "Custom Manufacturing",
+    "certifications": [
+      "OEKO-TEX"
+    ],
+    "moqTier": "1,000+",
+    "moq": "1,000 pcs",
+    "packaging": "As per requirement",
+    "supplyType": "FOB / CIF",
+    "summary": "Reusable, soft and durable cloth diapers.",
+    "description": "Mock content: replace with your real product story.",
+    "highlights": [
+      "Reusable and washable",
+      "Private label available",
+      "Custom sizes and prints"
+    ],
+    "tags": [
+      "Textiles",
+      "Custom",
+      "Private Label"
+    ],
+    "gallery": 4,
+    "specs": [
+      [
+        "Material",
+        "Cotton / bamboo blend"
+      ],
+      [
+        "Form",
+        "Finished garment"
+      ],
+      [
+        "Grade",
+        "Export quality"
+      ],
+      [
+        "Packaging",
+        "As per requirement"
+      ],
+      [
+        "Lead Time",
+        "30-45 days (subject to quantity)"
+      ],
+      [
+        "Sample",
+        "Available (paid)"
+      ],
+      [
+        "MOQ",
+        "1,000 pcs"
+      ],
+      [
+        "Packaging",
+        "As per requirement"
+      ]
+    ],
+    "applications": [
+      {
+        "name": "Retail & E-commerce",
+        "text": "private-label ranges for stores and online brands"
+      },
+      {
+        "name": "Healthcare",
+        "text": "supply to care and wellness distributors"
+      },
+      {
+        "name": "Eco-conscious Brands",
+        "text": "reusable alternatives to disposables"
+      },
+      {
+        "name": "Institutional Buyers",
+        "text": "bulk supply for programmes and NGOs"
+      }
+    ],
+    "quality": [
+      "Fabric tested for colour-fastness and shrinkage",
+      "OEKO-TEX aligned materials",
+      "In-line and final inspection before packing"
+    ],
+    "packagingOptions": [
+      "Individually polybagged or retail-boxed",
+      "Master cartons for export",
+      "Private-label packaging on request"
+    ],
+    "logistics": [
+      "Sea and air freight",
+      "FOB / CIF",
+      "Lead time 30-45 days depending on quantity"
+    ],
+    "faqs": [
+      {
+        "q": "Can you make custom sizes?",
+        "a": "Yes. Sizes, fabrics and prints can be customised."
+      },
+      {
+        "q": "Do you provide samples?",
+        "a": "Yes, paid samples are available."
+      }
+    ],
+    "caption": "Made to last. Made for the world."
+  },
+  {
+    "slug": "reusable-period-panties",
+    "name": "Reusable Period Panties",
+    "category": "Textiles",
+    "application": "Feminine Hygiene",
+    "origin": "India",
+    "supplyMode": "Custom Manufacturing",
+    "certifications": [
+      "OEKO-TEX"
+    ],
+    "moqTier": "1,000+",
+    "moq": "1,000 pcs",
+    "packaging": "As per requirement",
+    "supplyType": "FOB / CIF",
+    "summary": "Comfortable, leak-resistant reusable period underwear.",
+    "description": "Mock content: replace with your real product story.",
+    "highlights": [
+      "Multi-layer absorbent",
+      "Private label available",
+      "Custom sizes"
+    ],
+    "tags": [
+      "Textiles",
+      "Custom",
+      "Private Label"
+    ],
+    "gallery": 4,
+    "specs": [
+      [
+        "Material",
+        "Cotton / bamboo blend"
+      ],
+      [
+        "Form",
+        "Finished garment"
+      ],
+      [
+        "Grade",
+        "Export quality"
+      ],
+      [
+        "Packaging",
+        "As per requirement"
+      ],
+      [
+        "Lead Time",
+        "30-45 days (subject to quantity)"
+      ],
+      [
+        "Sample",
+        "Available (paid)"
+      ],
+      [
+        "MOQ",
+        "1,000 pcs"
+      ],
+      [
+        "Packaging",
+        "As per requirement"
+      ]
+    ],
+    "applications": [
+      {
+        "name": "Retail & E-commerce",
+        "text": "private-label ranges for stores and online brands"
+      },
+      {
+        "name": "Healthcare",
+        "text": "supply to care and wellness distributors"
+      },
+      {
+        "name": "Eco-conscious Brands",
+        "text": "reusable alternatives to disposables"
+      },
+      {
+        "name": "Institutional Buyers",
+        "text": "bulk supply for programmes and NGOs"
+      }
+    ],
+    "quality": [
+      "Fabric tested for colour-fastness and shrinkage",
+      "OEKO-TEX aligned materials",
+      "In-line and final inspection before packing"
+    ],
+    "packagingOptions": [
+      "Individually polybagged or retail-boxed",
+      "Master cartons for export",
+      "Private-label packaging on request"
+    ],
+    "logistics": [
+      "Sea and air freight",
+      "FOB / CIF",
+      "Lead time 30-45 days depending on quantity"
+    ],
+    "faqs": [
+      {
+        "q": "Can you make custom sizes?",
+        "a": "Yes. Sizes, fabrics and prints can be customised."
+      },
+      {
+        "q": "Do you provide samples?",
+        "a": "Yes, paid samples are available."
+      }
+    ],
+    "caption": "Made to last. Made for the world."
+  },
+  {
+    "slug": "reusable-adult-incontinence-wear",
+    "name": "Reusable Adult Incontinence Wear",
+    "category": "Textiles",
+    "application": "Adult Care",
+    "origin": "India",
+    "supplyMode": "Custom Manufacturing",
+    "certifications": [
+      "OEKO-TEX"
+    ],
+    "moqTier": "1,000+",
+    "moq": "1,000 pcs",
+    "packaging": "As per requirement",
+    "supplyType": "FOB / CIF",
+    "summary": "Discreet, washable incontinence wear for everyday use.",
+    "description": "Mock content: replace with your real product story.",
+    "highlights": [
+      "Washable and durable",
+      "Discreet fit",
+      "Custom manufacturing"
+    ],
+    "tags": [
+      "Textiles",
+      "Custom",
+      "Private Label"
+    ],
+    "gallery": 4,
+    "specs": [
+      [
+        "Material",
+        "Cotton / bamboo blend"
+      ],
+      [
+        "Form",
+        "Finished garment"
+      ],
+      [
+        "Grade",
+        "Export quality"
+      ],
+      [
+        "Packaging",
+        "As per requirement"
+      ],
+      [
+        "Lead Time",
+        "30-45 days (subject to quantity)"
+      ],
+      [
+        "Sample",
+        "Available (paid)"
+      ],
+      [
+        "MOQ",
+        "1,000 pcs"
+      ],
+      [
+        "Packaging",
+        "As per requirement"
+      ]
+    ],
+    "applications": [
+      {
+        "name": "Retail & E-commerce",
+        "text": "private-label ranges for stores and online brands"
+      },
+      {
+        "name": "Healthcare",
+        "text": "supply to care and wellness distributors"
+      },
+      {
+        "name": "Eco-conscious Brands",
+        "text": "reusable alternatives to disposables"
+      },
+      {
+        "name": "Institutional Buyers",
+        "text": "bulk supply for programmes and NGOs"
+      }
+    ],
+    "quality": [
+      "Fabric tested for colour-fastness and shrinkage",
+      "OEKO-TEX aligned materials",
+      "In-line and final inspection before packing"
+    ],
+    "packagingOptions": [
+      "Individually polybagged or retail-boxed",
+      "Master cartons for export",
+      "Private-label packaging on request"
+    ],
+    "logistics": [
+      "Sea and air freight",
+      "FOB / CIF",
+      "Lead time 30-45 days depending on quantity"
+    ],
+    "faqs": [
+      {
+        "q": "Can you make custom sizes?",
+        "a": "Yes. Sizes, fabrics and prints can be customised."
+      },
+      {
+        "q": "Do you provide samples?",
+        "a": "Yes, paid samples are available."
+      }
+    ],
+    "caption": "Made to last. Made for the world."
+  }
+]

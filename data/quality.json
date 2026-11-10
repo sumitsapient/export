@@ -1,0 +1,36 @@
+{
+  "hero": { "title": "Proof, not promises.", "text": "From our suppliers to your warehouse, every step is verified, tracked and documented." },
+  "process": {
+    "title": "Our Quality & Traceability Process",
+    "steps": [
+      { "label": "Supplier Qualification", "icon": "i7" },
+      { "label": "Product Verification", "icon": "i13" },
+      { "label": "Documentation & Compliance", "icon": "i14" },
+      { "label": "Batch Testing", "icon": "i8" },
+      { "label": "Inspection (Pre-shipment)", "icon": "i12" },
+      { "label": "Export (Shipment)", "icon": "i6" }
+    ]
+  },
+  "certs": { "title": "Certifications & Documentation" },
+  "credentials": {
+    "featured": {
+      "name": "APEDA Registration",
+      "icon": "i9",
+      "text": "Registered with APEDA for export of agricultural and processed products.",
+      "href": "#"
+    },
+    "others": ["IEC (Import Export Code)", "GST Registration", "FSSAI (as applicable)"]
+  },
+  "productCerts": [
+    { "name": "Organic (NPOP / USDA Organic)", "note": "(for applicable products)", "icon": "i9" },
+    { "name": "GMP / HACCP", "note": "(for food & nutraceuticals)", "icon": "i3" },
+    { "name": "OEKO-TEX® / GOTS", "note": "(for textiles)", "icon": "i11" },
+    { "name": "ISO 9001", "note": "(quality management, where applicable)", "icon": "i10" }
+  ],
+  "verification": [
+    { "name": "Third Party Inspection", "note": "(SGS / Bureau Veritas / Intertek)", "icon": "i7" },
+    { "name": "Lab Testing", "note": "(As per product requirements)", "icon": "i8" },
+    { "name": "Origin Verification", "note": "(Indian origin, traceability)", "icon": "i13" }
+  ],
+  "banner": { "text": "Every batch comes with the right documentation, so you can import with confidence.", "cta": "Request Documentation" }
+}
