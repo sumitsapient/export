@@ -22,7 +22,7 @@ ul,ol{list-style:none}
 .nav-toggle span,.nav-toggle span::before,.nav-toggle span::after{display:block;width:24px;height:2px;background:var(--gd);margin:auto;position:relative;content:""}
 .nav-toggle span::before{top:-7px}.nav-toggle span::after{top:5px}
 
-.hero{color:#fff;padding:clamp(60px,10vw,120px) 0;background:linear-gradient(90deg,rgba(20,45,25,.85),rgba(20,45,25,.35)),radial-gradient(ellipse at 75% 30%,#8aa86a,#3d6b3f 60%,#25472a)}
+.hero{color:#fff;padding:clamp(60px,10vw,120px) 0;background:linear-gradient(90deg,rgba(20,45,25,.85),rgba(20,45,25,.35)),url(../images/home-hero.webp) center/cover,radial-gradient(ellipse at 75% 30%,#8aa86a,#3d6b3f 60%,#25472a)}
 .hero h1{font-family:Georgia,serif;font-size:clamp(2rem,6vw,3.6rem);line-height:1.15;margin-bottom:16px}
 .hero p{max-width:480px;margin-bottom:24px;font-size:1.05rem}
 .actions{display:flex;flex-wrap:wrap;gap:12px}

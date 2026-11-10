@@ -279,3 +279,28 @@ copyDir(path.join(ROOT, 'images'), path.join(OUT, 'images'));
 
 write('sitemap.xml', `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${pages.map(u => `  <url><loc>${site.url}${u}</loc></url>`).join('\n')}\n</urlset>\n`);
 console.log(`Built ${pages.length} pages -> dist/`);
+
+// Optimize originals from images-src/ into dist/images/*.webp, then report missing images
+(async () => {
+  const sharp = require('sharp');
+  const SRC = path.join(ROOT, 'images-src');
+  const exts = /\.(jpe?g|png|tiff?|avif|webp)$/i;
+  const walk = d => fs.existsSync(d) ? fs.readdirSync(d, { withFileTypes: true }).flatMap(e => e.isDirectory() ? walk(path.join(d, e.name)) : [path.join(d, e.name)]) : [];
+
+  let done = 0;
+  for (const f of walk(SRC).filter(f => exts.test(f))) {
+    const rel = path.relative(SRC, f).replace(exts, '.webp');
+    const out = path.join(OUT, 'images', rel);
+    fs.mkdirSync(path.dirname(out), { recursive: true });
+    const width = /hero|closing/i.test(path.basename(f)) ? 1920 : 1000;
+    await sharp(f).rotate().resize({ width, withoutEnlargement: true }).webp({ quality: 78 }).toFile(out);
+    done++;
+  }
+
+  const refs = new Set();
+  for (const f of walk(OUT).filter(f => /\.(html|css)$/.test(f)))
+    for (const m of fs.readFileSync(f, 'utf8').matchAll(/(?:\.\.)?(\/images\/[\w\-\/]+\.webp)/g)) refs.add(m[1]);
+  const missing = [...refs].filter(r => !fs.existsSync(path.join(OUT, r))).sort();
+  console.log(`Optimized ${done} image(s).`);
+  if (missing.length) console.log(`Missing ${missing.length} image(s) (gradient fallback used):\n  ${missing.join('\n  ')}`);
+})();
