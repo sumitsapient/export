@@ -501,90 +501,6 @@
         "caption":  "Cocoa butter for global markets."
     },
     {
-        "slug":  "cocoa-powder",
-        "name":  "Cocoa Powder",
-        "category":  "Agricultural",
-        "application":  "Food \u0026 Beverage",
-        "origin":  "India",
-        "supplyMode":  "Bulk / Private Label",
-        "certifications":  [
-
-                           ],
-        "moqTier":  "On request",
-        "moq":  "On request",
-        "packaging":  "As per requirement",
-        "supplyType":  "FOB / CIF",
-        "summary":  "Cocoa powder for food, beverage and confectionery applications.",
-        "description":  "Product specifications and sourcing details available on request.",
-        "highlights":  [
-                           "Bulk supply available",
-                           "Packaging options on request",
-                           "Specification to be confirmed"
-                       ],
-        "tags":  [
-                     "Agricultural",
-                     "Bulk",
-                     "Private Label"
-                 ],
-        "gallery":  4,
-        "specs":  [
-                      [
-                          "Form",
-                          "Powder"
-                      ],
-                      [
-                          "Grade",
-                          "To be confirmed"
-                      ],
-                      [
-                          "MOQ",
-                          "On request"
-                      ],
-                      [
-                          "Packaging",
-                          "As per requirement"
-                      ],
-                      [
-                          "Lead Time",
-                          "To be confirmed"
-                      ]
-                  ],
-        "applications":  [
-                             {
-                                 "text":  "beverages, bakery and desserts",
-                                 "name":  "Food \u0026 Beverage"
-                             },
-                             {
-                                 "text":  "chocolate and confectionery products",
-                                 "name":  "Confectionery"
-                             }
-                         ],
-        "quality":  [
-                        "Product specification and quality documentation available on request",
-                        "Testing requirements to be confirmed with buyer"
-                    ],
-        "packagingOptions":  [
-                                 "Packaging options to be confirmed",
-                                 "Custom pack sizes on request"
-                             ],
-        "logistics":  [
-                          "Sea and air freight options",
-                          "FOB / CIF",
-                          "Lead time to be confirmed"
-                      ],
-        "faqs":  [
-                     {
-                         "a":  "Specifications can be shared on request.",
-                         "q":  "Can you provide product specifications?"
-                     },
-                     {
-                         "a":  "Please enquire for sample availability.",
-                         "q":  "Can you provide samples?"
-                     }
-                 ],
-        "caption":  "Cocoa powder for global markets."
-    },
-    {
         "slug":  "egg-powder",
         "name":  "Egg Powder",
         "category":  "Agricultural",
@@ -755,5 +671,231 @@
                      }
                  ],
         "caption":  "Rice for global markets."
+    },
+    {
+        "slug":  "handicrafts",
+        "name":  "Handicrafts",
+        "category":  "Agricultural",
+        "application":  "Home Decor \u0026 Gifts",
+        "origin":  "India",
+        "supplyMode":  "Custom Sourcing",
+        "certifications":  [
+
+                           ],
+        "moqTier":  "On request",
+        "moq":  "On request",
+        "packaging":  "As per requirement",
+        "supplyType":  "FOB / CIF",
+        "summary":  "Handcrafted products sourced from artisans in India for retail, gifting and home decor.",
+        "description":  "Product range, materials and specifications available on request.",
+        "highlights":  [
+                           "Custom sourcing available",
+                           "Artisan-made products",
+                           "Styles and materials to be confirmed"
+                       ],
+        "tags":  [
+                     "Custom Sourcing",
+                     "Handicrafts"
+                 ],
+        "gallery":  1,
+        "specs":  [
+                      [
+                          "Material",
+                          "To be confirmed"
+                      ],
+                      [
+                          "Design",
+                          "As per requirement"
+                      ],
+                      [
+                          "MOQ",
+                          "On request"
+                      ],
+                      [
+                          "Packaging",
+                          "As per requirement"
+                      ]
+                  ],
+        "applications":  [
+                             {
+                                 "text":  "decorative pieces for homes and hospitality",
+                                 "name":  "Home Decor"
+                             },
+                             {
+                                 "text":  "curated products for shops and gifting programmes",
+                                 "name":  "Retail \u0026 Gifting"
+                             }
+                         ],
+        "quality":  [
+                        "Materials and workmanship requirements agreed with buyer",
+                        "Inspection options available on request"
+                    ],
+        "packagingOptions":  [
+                                 "Packaging to suit product type",
+                                 "Custom retail packaging on request"
+                             ],
+        "logistics":  [
+                          "Sea and air freight options",
+                          "FOB / CIF",
+                          "Lead time to be confirmed"
+                      ],
+        "faqs":  [
+                     {
+                         "a":  "Customization options depend on the product and can be discussed on enquiry.",
+                         "q":  "Can products be customized?"
+                     }
+                 ],
+        "caption":  "Handcrafted in India."
+    },
+    {
+        "slug":  "wooden-furniture",
+        "name":  "Wooden Furniture",
+        "category":  "Home \u0026 Living",
+        "application":  "Furniture \u0026 Interiors",
+        "origin":  "India",
+        "supplyMode":  "Custom Manufacturing / Sourcing",
+        "certifications":  [
+
+                           ],
+        "moqTier":  "On request",
+        "moq":  "On request",
+        "packaging":  "As per requirement",
+        "supplyType":  "FOB / CIF",
+        "summary":  "Wooden furniture for residential, hospitality and retail projects.",
+        "description":  "Wood types, designs and specifications available on request.",
+        "highlights":  [
+                           "Custom designs available",
+                           "Wood and finish to be confirmed",
+                           "Project and bulk enquiries welcome"
+                       ],
+        "tags":  [
+                     "Home \u0026 Living",
+                     "Custom"
+                 ],
+        "gallery":  1,
+        "specs":  [
+                      [
+                          "Material",
+                          "Wood type to be confirmed"
+                      ],
+                      [
+                          "Finish",
+                          "To be confirmed"
+                      ],
+                      [
+                          "MOQ",
+                          "On request"
+                      ],
+                      [
+                          "Packaging",
+                          "As per requirement"
+                      ]
+                  ],
+        "applications":  [
+                             {
+                                 "text":  "furniture for home interiors",
+                                 "name":  "Residential"
+                             },
+                             {
+                                 "text":  "furnishings for hotels, restaurants and retail spaces",
+                                 "name":  "Hospitality \u0026 Retail"
+                             }
+                         ],
+        "quality":  [
+                        "Material and finish requirements agreed with buyer",
+                        "Inspection options available on request"
+                    ],
+        "packagingOptions":  [
+                                 "Protective export packaging",
+                                 "Custom packaging on request"
+                             ],
+        "logistics":  [
+                          "Sea freight options",
+                          "FOB / CIF",
+                          "Lead time to be confirmed"
+                      ],
+        "faqs":  [
+                     {
+                         "a":  "Please share the design and specifications for review.",
+                         "q":  "Can you source custom designs?"
+                     }
+                 ],
+        "caption":  "Wood furniture, made to your brief."
+    },
+    {
+        "slug":  "home-textiles",
+        "name":  "Home Textiles",
+        "category":  "Textiles",
+        "application":  "Home \u0026 Living",
+        "origin":  "India",
+        "supplyMode":  "Custom Manufacturing",
+        "certifications":  [
+
+                           ],
+        "moqTier":  "On request",
+        "moq":  "On request",
+        "packaging":  "As per requirement",
+        "supplyType":  "FOB / CIF",
+        "summary":  "Home textile products for retail, hospitality and interior applications.",
+        "description":  "Product types, fabrics and specifications available on request.",
+        "highlights":  [
+                           "Custom fabrics and designs",
+                           "Private label options on request",
+                           "Product range to be confirmed"
+                       ],
+        "tags":  [
+                     "Textiles",
+                     "Custom",
+                     "Private Label"
+                 ],
+        "gallery":  1,
+        "specs":  [
+                      [
+                          "Material",
+                          "To be confirmed"
+                      ],
+                      [
+                          "Product Type",
+                          "To be confirmed"
+                      ],
+                      [
+                          "MOQ",
+                          "On request"
+                      ],
+                      [
+                          "Packaging",
+                          "As per requirement"
+                      ]
+                  ],
+        "applications":  [
+                             {
+                                 "text":  "textile products for residential spaces",
+                                 "name":  "Home \u0026 Interiors"
+                             },
+                             {
+                                 "text":  "products for hotels, stores and online brands",
+                                 "name":  "Hospitality \u0026 Retail"
+                             }
+                         ],
+        "quality":  [
+                        "Fabric and workmanship requirements agreed with buyer",
+                        "Inspection options available on request"
+                    ],
+        "packagingOptions":  [
+                                 "Retail and bulk packaging options",
+                                 "Custom packaging on request"
+                             ],
+        "logistics":  [
+                          "Sea and air freight options",
+                          "FOB / CIF",
+                          "Lead time to be confirmed"
+                      ],
+        "faqs":  [
+                     {
+                         "a":  "Please enquire with the product types and specifications you need.",
+                         "q":  "Which home textile products are available?"
+                     }
+                 ],
+        "caption":  "Home textiles from India."
     }
 ]
