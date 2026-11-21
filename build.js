@@ -26,7 +26,7 @@ const header = urlPath => {
   }).join('\n        ');
   return `<header class="site-header">
   <div class="wrap bar">
-    <a class="logo" href="/" aria-label="${site.name} home"><span class="logo-mark" aria-hidden="true">${site.name[0]}</span>${site.name}</a>
+    <a class="logo" href="/" aria-label="${site.name} home"><img class="brand-logo" src="/images/vayexim-logo.png" alt=""></a>
     <button class="nav-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Menu"><span></span></button>
     <nav id="primary-nav" aria-label="Primary">
       <ul>
